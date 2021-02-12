@@ -13,4 +13,4 @@ $ git clone https://github.com/Kingtebe/SmsV3
 $ cd SmsV3
 $ python v3.py
 ```
->Get Token[click here](https://cutt.ly/OkJdBhe)
+>Get Token [click here](https://cutt.ly/OkJdBhe)
