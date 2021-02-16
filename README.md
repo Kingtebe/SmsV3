@@ -1,6 +1,6 @@
 ```
 Ini tools spam•sms unlimited, tapi jangan bar-bar juga anjim :v
-cocok buat nge prank teman,penipu ataupun mantan. Khusu lu yg tersakiti :v
+cocok buat nge prank teman,penipu ataupun mantan. Khusus lu yg tersakiti :v
 ```
 ## Usage
 ```php
